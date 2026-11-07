@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moniuet.github.io/mcas-eds-pots/sitemap.xml
